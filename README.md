@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**ZMensRain/ZmensRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm self directed learner who has been learning in a self directed manner since I was 10. I enjoy programming, speedrunning games, hiking, & video essays.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### General
+
+- I’m currently working on a wiki with resources for making you less addicted to the attention economy
+- I’m currently learning Golang, German, & Neovim
+- Pronouns: he/him
+- Fun fact: About me? I've been programming in some fashion or other since I was 12.
+
+### Setup
+
+My current setup consists of Fedora Linux with Hyprland customized to have beautiful purple accents. My editor of choice at the moment is VScodium using the purple void theme.
